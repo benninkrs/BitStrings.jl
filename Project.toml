@@ -1,0 +1,8 @@
+name = "BitStrings"
+uuid = "1e6bd3de-b070-4b2e-b6b8-e58fa36483c5"
+authors = ["Ryan Bennink <benninkrs@ornl.gov>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
